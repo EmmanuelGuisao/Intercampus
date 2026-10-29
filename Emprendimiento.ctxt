@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Emprendimiento
+comment1.params=idEmprendimiento
+comment1.target=Emprendimiento(int)
+comment2.params=nombreEmprendimiento descripcionEmprendimiento ubicacion contacto horario
+comment2.target=void actualizarDatosDelEmprendimiento(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment3.params=idPublicacion
+comment3.target=boolean eliminarPublicacion(int)
+numComments=4

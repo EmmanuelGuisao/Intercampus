@@ -1,0 +1,13 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=TicketSoporte
+comment1.params=idTicket solicitante tipoSolicitud descripcion
+comment1.target=TicketSoporte(int, Estudiante, java.lang.String, java.lang.String)
+comment2.params=administrador
+comment2.target=void asignarResponsable(Administrador)
+comment3.params=texto
+comment3.target=void responder(java.lang.String)
+comment4.target=void cerrarTicket()
+comment5.params=valor
+comment5.target=boolean calificarAtencion(int)
+numComments=6

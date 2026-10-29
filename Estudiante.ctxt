@@ -1,0 +1,16 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Estudiante
+comment1.params=idUsuario nombre correoInstitucional contrasena codigoEstudiantil programaAcademico semestre
+comment1.target=Estudiante(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int)
+comment2.params=nuevosIntereses
+comment2.target=void actualizarIntereses(java.util.ArrayList)
+comment3.params=periodo
+comment3.target=Horario crearHorario(java.lang.String)
+comment4.target=java.util.ArrayList buscarCoincidencias()
+comment5.params=nombre tipo tema
+comment5.target=Grupo crearGrupo(java.lang.String, java.lang.String, java.lang.String)
+comment6.target=Emprendimiento registrarEmprendimiento()
+comment7.params=tipo descripcion
+comment7.target=TicketSoporte solicitarSoporte(java.lang.String, java.lang.String)
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Main
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=e
+comment2.target=void menuEstudiante(Estudiante)
+comment3.params=admin
+comment3.target=void menuAdministrador(Administrador)
+comment4.params=mensaje
+comment4.target=int leerEntero(java.lang.String)
+comment5.params=correo
+comment5.target=Usuario buscarUsuario(java.lang.String)
+comment6.params=que total
+comment6.target=int elegir(java.lang.String, int)
+numComments=7

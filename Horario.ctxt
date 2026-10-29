@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Horario
+comment1.params=idHorario periodoAcademico
+comment1.target=Horario(int, java.lang.String)
+comment2.target=void generarPropuesta()
+comment3.target=void reorganizar()
+numComments=4

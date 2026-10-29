@@ -1,0 +1,13 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Grupo
+comment1.params=idGrupo nombreGrupo tipoGrupo temaGrupo
+comment1.target=Grupo(int, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=estudiante
+comment2.target=boolean agregarMiembro(Estudiante)
+comment3.params=estudiante
+comment3.target=boolean retirarMiembro(Estudiante)
+comment4.params=nombreGrupo temaGrupo descripcion
+comment4.target=void actualizarGrupo(java.lang.String, java.lang.String, java.lang.String)
+comment5.target=void desactivarGrupo()
+numComments=6

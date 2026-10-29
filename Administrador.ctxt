@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Administrador
+comment1.params=idUsuario nombre correoInstitucional contrasena
+comment1.target=Administrador(int, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=usuario activo
+comment2.target=void cambiarEstadoUsuario(Usuario, boolean)
+numComments=3

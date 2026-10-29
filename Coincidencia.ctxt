@@ -1,0 +1,9 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=Coincidencia
+comment1.params=idCoincidencia estudianteSugerido
+comment1.target=Coincidencia(int, Estudiante)
+comment2.params=estudianteOrigen
+comment2.target=double calcularCompatibilidad(Estudiante)
+comment3.target=java.util.ArrayList obtenerCriterios()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Oct 29 16:42:11 COT 2026
+comment0.target=ActividadHorario
+comment1.params=idActividad nombre tipoActividad diaSemana horaInicio horaFin
+comment1.target=ActividadHorario(int, java.lang.String, java.lang.String, int, int, int)
+comment2.params=nombre tipoActividad diaSemana horaInicio horaFin
+comment2.target=void actualizarActividad(java.lang.String, java.lang.String, int, int, int)
+comment3.target=boolean validarFranjaHoraria()
+comment4.target=int calcularDuracion()
+numComments=5

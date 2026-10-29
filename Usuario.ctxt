@@ -1,0 +1,11 @@
+#BlueJ class context
+#Thu Oct 29 16:19:06 COT 2026
+comment0.target=Usuario
+comment1.params=idUsuario nombre correoInstitucional contrasena
+comment1.target=Usuario(int, java.lang.String, java.lang.String, java.lang.String)
+comment2.params=correo contrasena
+comment2.target=boolean iniciarSesion(java.lang.String, java.lang.String)
+comment3.params=nombre
+comment3.target=java.lang.String actualizarPerfil(java.lang.String)
+comment4.target=void cerrarSesion()
+numComments=5
